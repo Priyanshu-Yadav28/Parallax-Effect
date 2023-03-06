@@ -77,19 +77,19 @@ section{
 }
 
 .bg1{
-    background-image: url(sport-1.jpg);
+    background-image: url(./images/sport-1.jpg);
     /* display: flex;
     justify-content: center;
     align-items: center; */
 }
 .bg2{
-    background-image: url(sport-2.jpg);
+    background-image: url(./images/sport-2.jpg);
     /* display: flex;
     justify-content: center;
     align-items: center; */
 }
 .bg3{
-    background-image: url(sport-3.jpg);
+    background-image: url(./images/sport-3.jpg);
     /* display: flex;
     justify-content: center;
     align-items: center; */
